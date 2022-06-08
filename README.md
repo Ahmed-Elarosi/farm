@@ -1,9 +1,9 @@
 # Tech:
 
-## HTML
+### HTML
 
-## CSS
+### CSS
 
-## JS
+### JS
 
-## NodeJS
+### NodeJS
