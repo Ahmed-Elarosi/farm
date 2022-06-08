@@ -1,0 +1,17 @@
+{
+  "name": "farm",
+  "version": "1.0.0",
+  "description": "farm server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ahmed Elarosi",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
